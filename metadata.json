@@ -1,0 +1,5 @@
+{
+  "name": "Komani Progress Action (KPA) Membership Platform",
+  "description": "A platform for joining the Komani Progress Action (KPA). Applicants can manage their profiles, upload proof of payment, and interact with a helpful chatbot. Administrators can manage applications and view organizational growth.",
+  "requestFramePermissions": []
+}
